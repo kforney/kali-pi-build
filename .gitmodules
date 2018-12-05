@@ -1,0 +1,6 @@
+[submodule "gcc-arm-linux-gnueabihf-4.7"]
+	path = gcc-arm-linux-gnueabihf-4.7
+	url = https://github.com/offensive-security/gcc-arm-linux-gnueabihf-4.7
+[submodule "kali-arm-build-scripts"]
+	path = kali-arm-build-scripts
+	url = https://github.com/offensive-security/kali-arm-build-scripts
